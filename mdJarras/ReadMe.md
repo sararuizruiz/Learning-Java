@@ -1,28 +1,22 @@
-## Módulo mdJarras 🍺
+## mdJarras Module 🍺
 
-El objetivo de este ejercicio es crear una clase **Jarra** que utilizaremos para “simular” algunas de
-las acciones que podemos realizar con una jarra. 
+The goal of this exercise is to create a **Jar** (Jarra) class that we will use to “simulate” some of the actions that we can perform with a jar.
 
-Nuestras jarras van a poder contener cierta cantidad de agua. Así, cada jarra tiene una
-determinada capacidad (en litros) que será la misma durante la vida de la jarra (dada en el
-constructor). En un momento determinado, una jarra dispondrá de una cantidad de agua que
-podrá variar en el tiempo.
+Our jars will be able to contain a certain amount of water. Thus, each jar has a certain capacity (in liters) that will be the same during the life of the jar (given in the constructor). A jar will have an amount of water that may vary over time.
 
-Las acciones que podremos realizar sobre una jarra son:
-* Llenar la jarra por completo desde un grifo.
-* Vaciarla enteramente.
-* Llenarla con el agua que contiene otra jarra (bien hasta que la jarra receptora quede
-colmada o hasta que la jarra que volcamos se vacíe por completo).
+The actions that we can perform on a jar are:
 
-Además, se creará la clase **Mesa** que dispondrá de dos jarras A y B (jarraA y jarraB). Se pide: 
-* Un constructor que cree una mesa con dos jarras de tamaño inicial dados.
-* Métodos para llenar las jarras A y B respectivamente y para vaciarlas.
-* Métodos que vuelque la jarra A sobre la jarra B y viceversa.
-* Métodos que devuelvan los contenidos y capacidades de las jarra A y B.
-* Método que devuelva el contenido total de las jarras.
-* Método String toString() que muestre las dos jarras que hay en la mesa.
+* Fill the jar completely from a tap.
+* Empty it entirely.
+* Fill it with the water contained in another jar (either until the receiving jar is full or until the jar we dumped is completely empty).
 
-Por último, se pide crear una aplicación que cree una mesa con valores iniciales de las jarras de 7 y 5 litros y
-realice las operaciones necesarias para que en una de las jarras quede 1 litro.
+Additionally, the **Table** (Mesa) class will be created that will have two jars A and B. It is requested:
 
+* A constructor that creates a table with two given initial size jars.
+* Methods for filling jars A and B respectively and for emptying them.
+* Methods that dump jar A onto jar B and vice versa.
+* Methods that return the contents and capacities of jars A and B.
+* A method that returns the total content of both of the jars.
+* A String toString() method that shows the two jars on the table.
 
+Finally, we are asked to create an application that creates a table with jars of initial values ​​of 7 and 5 liters and performs the necessary operations so that 1 liter remains in one of the jars.
