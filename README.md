@@ -8,7 +8,7 @@ This repository contains a bunch of Java projects used to master the language.
 
 Each exercise is categorised as either easy, advanced, or challenging: 
 
-🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras) <br />
+🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI) <br />
 🟡 Advanced: <br />
 🔴 Challenging: <br />
 
