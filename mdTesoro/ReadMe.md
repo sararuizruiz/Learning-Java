@@ -16,6 +16,7 @@ in the place reached.
 
 
 <img width="700" alt="Screenshot 2023-10-10 at 17 00 07" src="https://github.com/sararuizruiz/Learning_Java/assets/75987848/9f20f65c-6904-47b0-80cf-7d7bf93ca4bb">
+<br /><br />
 
 Create a Java program in which we provide six arguments, the first two generate the
 position on the coordinate plane of the yellow palm tree, the following two the position of the blue palm tree
