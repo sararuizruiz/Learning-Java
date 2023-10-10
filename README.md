@@ -10,7 +10,7 @@ Each exercise is categorised as either easy, advanced, or challenging:
 
 🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI) <br />
 🟡 Advanced: <br />
-🔴 Challenging: <br />
+🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro) <br />
 
 ### Acknowledgements 👏
 All these exercises are part of the 'Big Data and Artificial Intelligence' Master by the University of Málaga.
