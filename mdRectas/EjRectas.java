@@ -27,5 +27,5 @@ public class EjRectas {
 		System.out.println("Paralela a " + rBase + " que pasa por " + p1 + " es: " + rPara);
         Punto inter = rPerpe.interseccionCon(rPara);
         System.out.println("Intersección de " + rPerpe + " con " + rPara + " es: " + inter );
-	}
+		}
 }

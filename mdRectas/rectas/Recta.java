@@ -22,7 +22,7 @@ public class Recta {
         return inters.distancia(p);
     }
 
-    static private record Implicita(double a, double b, double c){};
+    static record Implicita(double a, double b, double c){};
     private Implicita implicita() {
         double a0 = direccion.getComponenteY();
         double b0 = - direccion.getComponenteX();
@@ -37,8 +37,9 @@ public class Recta {
         }
         Implicita imp1 = this.implicita();
         Implicita imp2 = r.implicita();
-        double x = determinante(-imp1.c, imp1.b, -imp2.c, imp2.b) / determinante(imp1.a, imp1.b, imp2.a, imp2.b);
-        double y = determinante(imp1.a, -imp1.c, imp2.a, -imp2.c) / determinante(imp1.a, imp1.b, imp2.a, imp2.b);
+        double d = determinante(imp1.a, imp1.b, imp2.a, imp2.b);
+        double x = determinante(-imp1.c, imp1.b, -imp2.c, imp2.b) / d;
+        double y = determinante(imp1.a, -imp1.c, imp2.a, -imp2.c) / d;
         return new Punto(x,y);
     }
 
