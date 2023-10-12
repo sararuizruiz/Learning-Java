@@ -19,10 +19,10 @@ Analyze the results obtained regarding the color of the final ball depending on 
 
 ### Result of the analysis
 
-The color of the final ball depends only on the parity of the initial number of black balls passed as an argument.
-If the initial number of black balls is even ---> The final ball will be white.
+The color of the final ball depends only on the parity of the initial number of black balls passed as an argument. <br />
+If the initial number of black balls is even ---> The final ball will be white. <br />
 If the initial number of black balls is odd  ---> The final ball will be black.
-<br />
+
 Explanation:
 
 I extract balls in pairs, if they are of different colors, I have removed a black one but then put another black one back in,
