@@ -22,13 +22,16 @@ Analyze the results obtained regarding the color of the final ball depending on 
 The color of the final ball depends only on the parity of the initial number of black balls passed as an argument.
 If the initial number of black balls is even ---> The final ball will be white.
 If the initial number of black balls is odd  ---> The final ball will be black.
-
+<br />
 Explanation:
+
 I extract balls in pairs, if they are of different colors, I have removed a black one but then put another black one back in,
 so the number of black balls remains CONSTANT (and therefore its parity).
+
 If, on the other hand, the balls are of the same color, I either take out two white ones and put back one white one
 (the number of black balls remains constant and therefore its parity), or I take out two black ones and put back one white one, so the number of black balls decreases by two
 (BUT, importantly, the PARITY remains the same).
-Therefore, regardless of the starting point, the parity of the number of black balls will NEVER change.
-If it starts as even, it will always be even and can never be 1. The remaining ball that stands alone must be white.
+
+Therefore, regardless of the starting point, the parity of the number of black balls will NEVER change. <br />
+If it starts as even, it will always be even and can never be 1. The remaining ball that stands alone must be white. <br />
 If it starts as odd, it will always be odd and will end up being 1. The returned ball will be black.
