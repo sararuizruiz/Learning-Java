@@ -9,7 +9,7 @@ This repository contains a bunch of Java projects used to master the language.
 Each exercise is categorised as either easy, advanced, or challenging: 
 
 🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI), [Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna), [Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches) <br />
-🟡 Advanced: <br />
+🟡 Advanced: [Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren) <br />
 🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro) <br />
 
 ### Acknowledgements 👏
