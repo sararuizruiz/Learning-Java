@@ -9,8 +9,8 @@ This repository contains a bunch of Java projects used to master the language.
 Each exercise is categorised as either easy, advanced, or challenging: 
 
 🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI), [Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna), [Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches) <br />
-🟡 Advanced: [Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren) <br />
-🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro) <br />
+🟡 Advanced: [Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren), [Librería](https://github.com/sararuizruiz/Learning_Java/tree/main/mdLibreriaV3L), [MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL)  <br />
+🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro), [Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) <br />
 
 ### Acknowledgements 👏
 All these exercises are part of the 'Big Data and Artificial Intelligence' Master by the University of Málaga.
