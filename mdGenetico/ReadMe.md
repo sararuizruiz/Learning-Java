@@ -43,3 +43,11 @@ The following classes and interfaces will be built in the "genetico" package:
 7) There are many recombination operators that can be used to combine individuals. Two of the most well-known ones are single-point recombination and uniform recombination. In single-point recombination, a random number z is generated between zero and the chromosome length. The first z genes of the resulting individual are taken from the first parent, and the rest are taken from the second. In uniform recombination, the value of each gene in the resulting individual is randomly chosen from one of the parents. Given this information, you should construct the subclasses "AGUnPunto" and "AGUniforme" of "AlgoritmoGenetico" to implement single-point recombination and uniform recombination, respectively, in the "recombinar" method. The constructor for these classes should have the same signature as the one in the "AlgoritmoGenetico" class.
 
 To test the functionality of the two types of genetic algorithms implemented, you can use the "TestGenetico" class.
+
+#### UML Diagram
+
+<img width="944" alt="Screenshot 2023-10-23 at 09 16 39" src="https://github.com/sararuizruiz/Learning_Java/assets/75987848/9644e4ca-0c20-4e6b-ae3f-4975af699b61">
+
+
+
+
