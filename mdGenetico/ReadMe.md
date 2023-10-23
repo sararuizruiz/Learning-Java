@@ -44,7 +44,7 @@ The following classes and interfaces will be built in the "genetico" package:
 
 To test the functionality of the two types of genetic algorithms implemented, you can use the "TestGenetico" class.
 
-#### UML Diagram
+### UML Diagram
 
 <img width="944" alt="Screenshot 2023-10-23 at 09 16 39" src="https://github.com/sararuizruiz/Learning_Java/assets/75987848/9644e4ca-0c20-4e6b-ae3f-4975af699b61">
 
