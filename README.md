@@ -13,18 +13,18 @@ Each exercise is categorised as either easy, advanced, or challenging:
 🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro), [Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) <br />
 
 ### Exercises by key skills
-Here is the chronological order of the exercises as well as key skills tested upon them.
-[Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras) - clases, composition
-[NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI) - clases
-[Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) - composition, exceptions
-[Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro) - composition, import
-[Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna) - enum, random, exceptions
-[Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren) - lists
-[Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches) - inheritance
-[Librería](https://github.com/sararuizruiz/Learning_Java/tree/main/mdLibreriaV3L) - interface, inheritance, lists, composition
-[Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) - inheritance, interface
-[MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL) - inheritance, scanner, equals, exceptions
-[Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) - lists, scanner, equals
+Here is the chronological order of the exercises as well as key skills tested upon them. <br />
+[Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras) - clases, composition <br />
+[NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI) - clases <br />
+[Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) - composition, exceptions <br />
+[Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro) - composition, import <br />
+[Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna) - enum, random, exceptions <br />
+[Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren) - lists <br />
+[Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches) - inheritance <br />
+[Librería](https://github.com/sararuizruiz/Learning_Java/tree/main/mdLibreriaV3L) - interface, inheritance, lists, composition <br />
+[Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) - inheritance, interface <br />
+[MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL) - inheritance, scanner, equals, exceptions <br />
+[Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) - lists, scanner, equals <br />
  
  
  
