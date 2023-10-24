@@ -8,9 +8,32 @@ This repository contains a bunch of Java projects used to master the language.
 
 Each exercise is categorised as either easy, advanced, or challenging: 
 
-🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI), [Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna), [Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches) <br />
+🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI), [Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna), [Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches), [Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) <br />
 🟡 Advanced: [Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren), [Librería](https://github.com/sararuizruiz/Learning_Java/tree/main/mdLibreriaV3L), [MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL)  <br />
 🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro), [Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) <br />
+
+### Exercises by key skills
+Here is the chronological order of the exercises as well as key skills tested upon them.
+[Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras) - clases, composition
+[NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI) - clases
+[Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) - composition, exceptions
+[Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro) - composition, import
+[Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna) - enum, random, exceptions
+[Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren) - lists
+[Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches) - inheritance
+[Librería](https://github.com/sararuizruiz/Learning_Java/tree/main/mdLibreriaV3L) - interface, inheritance, lists, composition
+[Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) - inheritance, interface
+[MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL) - inheritance, scanner, equals, exceptions
+[Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) - lists, scanner, equals
+ 
+ 
+ 
+
+
+
+
+
+
 
 ### Acknowledgements 👏
 All these exercises are part of the 'Big Data and Artificial Intelligence' Master by the University of Málaga.
