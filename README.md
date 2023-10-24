@@ -24,7 +24,7 @@ Here is the chronological order of the exercises as well as key skills tested up
 [Librería](https://github.com/sararuizruiz/Learning_Java/tree/main/mdLibreriaV3L) - interface, inheritance, lists, composition <br />
 [Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) - inheritance, interface <br />
 [MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL) - inheritance, scanner, equals, exceptions <br />
-[Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) - lists, scanner, equals <br />
+[Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) - lists, scanner, equals, hashCode, stream, lambda functions <br />
  
  
  
