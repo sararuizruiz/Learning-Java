@@ -8,14 +8,14 @@ This repository contains a bunch of Java projects used to master the language.
 
 Each exercise is categorised as either easy, advanced, or challenging: 
 
-🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI), [Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna), [Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches), [Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) <br />
+🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI), [Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna), [Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches), [Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL), [Bus](https://github.com/sararuizruiz/Learning_Java/tree/main/mdBusV1L) <br />
 🟡 Advanced: [Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren), [Librería](https://github.com/sararuizruiz/Learning_Java/tree/main/mdLibreriaV3L), [MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL)  <br />
 🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro), [Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) <br />
 
 ### Exercises by key skills
 Here is the chronological order of the exercises as well as key skills tested upon them. <br />
-[Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras) - clases, composition <br />
-[NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI) - clases <br />
+[Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras) - classes, composition <br />
+[NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI) - classes <br />
 [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) - composition, exceptions <br />
 [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro) - composition, import <br />
 [Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna) - enum, random, exceptions <br />
@@ -25,6 +25,7 @@ Here is the chronological order of the exercises as well as key skills tested up
 [Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) - inheritance, interface, streams, random, exceptions <br />
 [MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL) - inheritance, scanner, equals, exceptions, random, regular expressions <br />
 [Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) - lists, scanner, equals, hashCode, stream, lambda functions, record <br />
+[Bus](https://github.com/sararuizruiz/Learning_Java/tree/main/mdBusV1L) - lists, interface, IO <br />
  
  
  
