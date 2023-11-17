@@ -10,7 +10,7 @@ Each exercise is categorised as either easy, advanced, or challenging:
 
 🟢 Easy : [Jarras](https://github.com/sararuizruiz/Learning_Java/tree/main/mdJarras), [NPI](https://github.com/sararuizruiz/Learning_Java/tree/main/mdNPI), [Urna](https://github.com/sararuizruiz/Learning_Java/tree/main/mdUrna), [Coches](https://github.com/sararuizruiz/Learning_Java/tree/main/mdCoches), [Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL), [Bus](https://github.com/sararuizruiz/Learning_Java/tree/main/mdBusV1L) <br />
 🟡 Advanced: [Tren](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTren), [Librería](https://github.com/sararuizruiz/Learning_Java/tree/main/mdLibreriaV3L), [MasterMind](https://github.com/sararuizruiz/Learning_Java/tree/main/mdMastermindL), [AmigoInvisible](https://github.com/sararuizruiz/Learning_Java/tree/main/mdAmigoInvisible) <br />
-🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro), [Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico) <br />
+🔴 Challenging: [Rectas](https://github.com/sararuizruiz/Learning_Java/tree/main/mdRectas) + [Tesoro](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTesoro), [Genético](https://github.com/sararuizruiz/Learning_Java/tree/main/mdGenetico), [Partidos](https://github.com/sararuizruiz/Learning_Java/tree/main/mdPartidos) <br />
 
 ### Exercises by key skills
 Here is the chronological order of the exercises as well as key skills tested upon them. <br />
@@ -27,6 +27,7 @@ Here is the chronological order of the exercises as well as key skills tested up
 [Test](https://github.com/sararuizruiz/Learning_Java/tree/main/mdTestL) - lists, scanner, equals, hashCode, stream, lambda functions, record <br />
 [Bus](https://github.com/sararuizruiz/Learning_Java/tree/main/mdBusV1L) - lists, interface, IO, stream, equals, hashCode <br />
 [AmigoInvisible](https://github.com/sararuizruiz/Learning_Java/tree/main/mdAmigoInvisible) - collections (lists, sets), IO, exceptions, Scanner, PrintWriter, Iterator, Order, stream <br />
+[Partidos](https://github.com/sararuizruiz/Learning_Java/tree/main/mdPartidos) - stream, collections (list, set, map), equals, order, exceptions, io
  
  
  
